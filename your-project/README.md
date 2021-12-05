@@ -1,9 +1,9 @@
 <img src="https://bit.ly/2VnXWr2" alt="Ironhack Logo" width="100"/>
 
-# Title of Your Project
-*[Your Name]*
+# Hangman game Project
+Maher Zeghida, Ana Cortes, Ouykhy Quach
 
-*[Your Cohort, Campus & Date]*
+Data Analyst, Paris Nov 21
 
 ## Content
 - [Project Description](#project-description)
